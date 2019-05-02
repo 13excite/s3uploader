@@ -1,0 +1,8 @@
+---
+listen: "127.0.0.1:5050"
+url:    https://hb.cldmail.ru
+bucket: somebuck
+expire: 360
+credentinal:
+  access_key: keykeykey 
+  secret_key: secretsecret 
